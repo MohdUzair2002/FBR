@@ -1,0 +1,7 @@
+pandas==2.1.4
+xlsxwriter
+streamlit
+pandas
+requests
+bcrypt
+reportlab
